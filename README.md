@@ -1,2 +1,2 @@
-# compunatic
-ventas de repuestos de pc vía web
+# Compunatic
+Ventas de piezas/repuestos para Pc, vía web.
